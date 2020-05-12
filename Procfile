@@ -1,1 +1,1 @@
-noteaming: python noteaming.py
+discordbot: python noteaming.py
